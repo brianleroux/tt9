@@ -8,6 +8,8 @@
   },
   "devDependencies": {
     "@architect/sandbox": "latest",
+      "@architect/functions": "latest",
+    "@begin/data": "latest",
     "@begin/data": "latest",
     "cross-env": "^7.0.3",
     "tap-spec": "^5.0.0",
